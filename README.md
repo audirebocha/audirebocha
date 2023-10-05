@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Get this
-[![audirebocha's GitHub | Languages Over Time](https://stats.quine.sh/audirebocha/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=audirebocha)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
