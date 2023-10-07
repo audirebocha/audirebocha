@@ -9,7 +9,7 @@
 
 ### Most use languages
 <section align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=audirebocha&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=audirebocha&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 [![Peter StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14009549)](https://stackoverflow.com/users/14009549/peter)
 </section>
