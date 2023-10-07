@@ -14,7 +14,7 @@
 </div>
 </section>
 
-### Most use languages
+### Check out these other stuff
 <section align='left'>
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=audirebocha&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
@@ -22,3 +22,5 @@
 </section>
 ### My Stats
 <img src="https://myreadme.vercel.app/api/embed/audirebocha?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<h1 align='center' >Thank you for visiting 😁</h1>
