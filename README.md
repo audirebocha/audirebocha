@@ -4,11 +4,13 @@
 
 <section align='center'>
 <div>
-- 🔭 I’m currently working on a research projects that aims to make check in and check out more efficient
-- 🌱 I’m currently learning Veu
-- 💬 Ask me about anything, I love quality conversations
-- 📫 How to reach me: [www.peter-kimutai.web.app](https://peter-kimutai.web.app/)
-- ⚡ Fun fact: I love anime
+    <ul>
+        <li>🔭 I’m currently working on a research projects that aims to make check in and check out more efficient</li>
+        <li>🌱 I’m currently learning Veu</li>
+        <li>💬 Ask me about anything, I love quality conversations</li>
+        <li>📫 How to reach me: [www.peter-kimutai.web.app](https://peter-kimutai.web.app/)</li>
+        <li>⚡ Fun fact: I love anime</li>
+    </ul>
 </div>
 </section>
 
